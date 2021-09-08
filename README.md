@@ -1,1 +1,1 @@
-Aplicação web e mobile para doação para ONGs. Desenvolvida na Semana Omnistack 11 da Rocketseat
+Aplicação web (com React) e mobile (com React Native) de doação para ONGs. Desenvolvida no bootcamp Semana Omnistack 11 da Rocketseat.
